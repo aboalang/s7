@@ -1,0 +1,2 @@
+#!/bin/sh
+clang -o s7 -l dl -l m repl.c s7.c
